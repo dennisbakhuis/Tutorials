@@ -1,2 +1,6 @@
 # Tutorials
-Various notebooks of tutorial session I created over time.
+Various notebooks of tutorial sessions I created over time. Feel free to use the material. Each subfolder has a short description and prerequisites for running the notebook.
+
+[1. Logistic Regression](https://github.com/dennisbakhuis/Tutorials/tree/master/Logistic_Regression)
+
+
