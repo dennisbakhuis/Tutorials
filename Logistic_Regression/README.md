@@ -1,6 +1,6 @@
 # Logistic Regression
 #### Dennis Bakhuis - 17th April 2020
-[LinkedIn](https://linkedin.com/in/dennisbakhuis/)
+https://linkedin.com/in/dennisbakhuis/
 
 For a tutorial session I created this Jupyter Notebook in which I try to explain the concepts of a Logistic Regression and the related Linear Regression. These are than first coded in Tensorflow and later recreated using Numpy. Feel free to use the material, ask questions, send comments, or just a thank you message.
 
