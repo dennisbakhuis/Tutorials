@@ -12,7 +12,7 @@ For a tutorial session I created this Jupyter Notebook in which I try to explain
 1) open a shell
 2) conda create --name tutor python=3.7
 3) conda activate tutor
-4) pip install tensorflow pandas jupyterlab matplotlib
+4) pip install tensorflow pandas jupyterlab matplotlib \
 (for completeness, I also provided a requirements.txt, but the above should work.)
 
 ## Open Jupyter Lab in the working directory which has the Notebook and Data:
