@@ -1,2 +1,4 @@
 *.log
 .ipynb_check*/
+
+.autoversion
