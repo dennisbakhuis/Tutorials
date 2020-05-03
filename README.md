@@ -5,4 +5,6 @@ Various notebooks of tutorial sessions I created over time. Feel free to use the
 
 [1. Logistic Regression](https://github.com/dennisbakhuis/Tutorials/tree/master/Logistic_Regression)
 
+[2. Neural Networks](https://github.com/dennisbakhuis/Tutorials/tree/master/Neural_Network)
+
 
