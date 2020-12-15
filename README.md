@@ -7,4 +7,6 @@ Various notebooks of tutorial sessions I created over time. Feel free to use the
 
 [2. Neural Networks](https://github.com/dennisbakhuis/Tutorials/tree/master/Neural_Network)
 
+[3. Principle component analysis and the covariance matrix](https://github.com/dennisbakhuis/Tutorials/tree/master/Neural_Network)
+
 
