@@ -14,8 +14,8 @@ Various notebooks of tutorial sessions I created over time. Feel free to use the
 
 -------------------
 
-[A. Random titbits](https://github.com/dennisbakhuis/Tutorials/tree/master/3_Covariance_PCA)
+[A. Random titbits](https://github.com/dennisbakhuis/Tutorials/tree/master/A_Random_titbits)
 
-[B. Pandas tips](https://github.com/dennisbakhuis/Tutorials/tree/master/3_Covariance_PCA)
+[B. Pandas tips](https://github.com/dennisbakhuis/Tutorials/tree/master/B_Pandas_tips)
 
 
