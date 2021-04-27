@@ -5,8 +5,9 @@ https://linkedin.com/in/dennisbakhuis/
 Various notebooks demostrating nifty Pandas tricks
 
 
-[1. Faster DataFrame row iteration](https://github.com/dennisbakhuis/Tutorials/tree/master/1_Logistic_Regression)\
+[1. Faster DataFrame row iteration](https://github.com/dennisbakhuis/Tutorials/blob/master/B_Pandas_tips/1%20-%20Faster%20DataFrame%20row%20iteration.ipynb)\
 [2. Split text column into multiple new columns](https://github.com/dennisbakhuis/Tutorials/blob/master/B_Pandas_tips/2%20-%20Split%20text%20column%20into%20multiple%20new%20columns.ipynb)
+[3. Transform groupby result back into original DataFrame](https://github.com/dennisbakhuis/Tutorials/blob/master/B_Pandas_tips/3%20-%20transform%20results%20back%20to%20original%20dataframe%20size.ipynb)
 
 
 
