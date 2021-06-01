@@ -10,7 +10,7 @@ Various notebooks demostrating nifty Pandas tricks
 [3. Transform groupby result back into original DataFrame](https://github.com/dennisbakhuis/Tutorials/blob/master/B_Pandas_tips/3%20-%20transform%20results%20back%20to%20original%20dataframe%20size.ipynb)\
 [4. Chunking your CSV directly in Pandas](https://github.com/dennisbakhuis/Tutorials/blob/master/B_Pandas_tips/4%20-%20Chunking%20your%20csv%20directly%20in%20Pandas.ipynb)\
 [5. Binning your data](https://github.com/dennisbakhuis/Tutorials/blob/master/B_Pandas_tips/4%20-%20Chunking%20your%20csv%20directly%20in%20Pandas.ipynbhttps://github.com/dennisbakhuis/Tutorials/blob/master/B_Pandas_tips/5%20-%20Binning%20your%20data.ipynb)\
-[6. Selecting ranges](https://github.com/dennisbakhuis/Tutorials/blob/master/B_Pandas_tips/6%20-%20Selecting%20a%20range.ipynb)
-
-
+[6. Selecting ranges](https://github.com/dennisbakhuis/Tutorials/blob/master/B_Pandas_tips/6%20-%20Selecting%20a%20range.ipynb)\
+[7. Give aggregation a name](https://github.com/dennisbakhuis/Tutorials/blob/master/B_Pandas_tips/7%20-%20Give%20aggregation%20a%20name.ipynb
+)
 
