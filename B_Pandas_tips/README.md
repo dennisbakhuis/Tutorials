@@ -15,4 +15,5 @@ Various notebooks demostrating nifty Pandas tricks
 [8. Exploding your DataFrames](https://github.com/dennisbakhuis/Tutorials/blob/master/B_Pandas_tips/8%20-%20Explode%20your%20DataFrames.ipynb)\
 [9. Loc or query?](https://github.com/dennisbakhuis/Tutorials/blob/master/B_Pandas_tips/9%20-%20Query%20or%20loc.ipynb)\
 [10. Filter your rows and columns](https://github.com/dennisbakhuis/Tutorials/blob/master/B_Pandas_tips/10%20-%20Filter%20your%20rows%20and%20columns.ipynb)\
-[11. count_values like a pro](https://github.com/dennisbakhuis/Tutorials/blob/master/B_Pandas_tips/11%20-%20value_counts%20like%20a%20pro.ipynb)
+[11. count_values like a pro](https://github.com/dennisbakhuis/Tutorials/blob/master/B_Pandas_tips/11%20-%20value_counts%20like%20a%20pro.ipynb)\
+[12. .rank() the stars in Pandas](https://github.com/dennisbakhuis/Tutorials/blob/master/B_Pandas_tips/12%20-%20Ranking%20the%20stars%20in%20Pandas.ipynb)
