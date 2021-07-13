@@ -1,5 +1,5 @@
 # Pandas tips
-#### Dennis Bakhuis - 14th December 2020
+#### Dennis Bakhuis - 13th of July 2021
 https://linkedin.com/in/dennisbakhuis/
 
 Various notebooks demostrating nifty Pandas tricks
