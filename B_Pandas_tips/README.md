@@ -18,4 +18,5 @@ Various notebooks demostrating nifty Pandas tricks
 [11. count_values like a pro](https://github.com/dennisbakhuis/Tutorials/blob/master/B_Pandas_tips/11%20-%20value_counts%20like%20a%20pro.ipynb)\
 [12. .rank() the stars in Pandas](https://github.com/dennisbakhuis/Tutorials/blob/master/B_Pandas_tips/12%20-%20Ranking%20the%20stars%20in%20Pandas.ipynb)\
 [13. Pivot your tables](https://github.com/dennisbakhuis/Tutorials/blob/master/B_Pandas_tips/13%20-%20Pivot%20your%20tables.ipynb)\
-[14. What's your number?](https://github.com/dennisbakhuis/Tutorials/blob/master/B_Pandas_tips/14%20-%20What%20is%20your%20number.ipynb)
+[14. What's your number?](https://github.com/dennisbakhuis/Tutorials/blob/master/B_Pandas_tips/14%20-%20What%20is%20your%20number.ipynb)\
+[15. Compress your data](https://github.com/dennisbakhuis/Tutorials/blob/master/B_Pandas_tips/15%20-%20Compressed%20CSV.ipynb)
